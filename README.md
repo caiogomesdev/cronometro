@@ -1,24 +1,22 @@
-# cronometro
+<div align="center">
+<img src="./github/cronometro.gif" style="width: 300px"/>
+</div>
 
-## Project setup
+### Cronômetro
+Projeto para práticar [vueJS](https://cli.vuejs.org/), um cronômetro simples com javascript, css e html.
+### Get started
 ```
-npm install
-```
+# Instale as dependência:
+$ npm install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Para desenvolvimento:
+$ npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+# Para produção:
+$ npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+### Configuração personalizada
+Siga a [Documentação oficial](https://cli.vuejs.org/config/).

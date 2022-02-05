@@ -3,7 +3,8 @@
 </div>
 
 ### Cronômetro
-Projeto para práticar [vueJS](https://cli.vuejs.org/), um cronômetro simples com javascript, css e html.
+Projeto para práticar [vueJS](https://cli.vuejs.org/), um cronômetro simples com javascript, css e html. <br />
+[Link para aplicação](http://cronometro.caiogomesdev.link/)
 ### Get started
 ```
 # Instale as dependência:

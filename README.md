@@ -7,7 +7,7 @@ Projeto para práticar [vueJS](https://cli.vuejs.org/), um cronômetro simples c
 [Link para aplicação](http://cronometro.caiogomesdev.link/)
 ### Get started
 ```
-# Instale as dependência:
+# Instale todas as dependências:
 $ npm install
 
 # Para desenvolvimento:
